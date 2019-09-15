@@ -1,0 +1,131 @@
+133 Sunset Terrace,71
+200 Sunset Terrace,54
+2021 Peoples Avenue,33
+2144 Burdett Avenue,51
+41 Ninth Street,27
+87 Gymnasium,11
+Academy Hall,67
+Admissions,34
+Alumni House,32
+Alumni Sports & Recreation Center,37
+Amos Eaton Hall,26
+Barton Hall,73
+Beman Park Firehouse,69
+Blaw-Knox 1 & 2,29
+Blitman Residence Commons,85
+Boiler House at 11th Street,77
+Boiler House at Sage Avenue,5
+Bray Hall,48
+Bryckwyck,61
+Burdett Avenue Residence Hall,50
+CBIS,74
+CII,14
+Carnegie Building,3
+Cary Hall,47
+Chapel and Cultural Center,49
+Cogswell Laboratory,20
+Colonie Apartments,66
+Commons Dining Hall,39
+Crockett Hall,40
+DCC,17
+Davison Hall,42
+E Complex,9
+EMPAC,76
+East Campus Athletic Village Arena,89
+East Campus Athletic Village Stadium,90
+Empire State Hall,68
+Engineering Center,18
+Field House Houston,52
+Folsom Library,23
+Greene Building,24
+Greenhouses and Grounds Barn,57
+H Building,31
+Hall Hall,46
+J Building,30
+Java++ Cafe,80
+LINAC Facility,58
+Lally Hall,25
+Louis Rubin Memorial Approach,79
+MRC,21
+Mueller Center,72
+Nason Hall,41
+North Hall,8
+Nugent Hall,44
+OGE,91
+Parking Garage,75
+Patroon Manor,65
+Pittsburgh Building,1
+Playhouse,15
+Polytechnic Residence Commons,86
+Public Safety,36
+Quadrangle Complex,12
+RPI Ambulance,81
+Radio Club,60
+Rensselaer Apartment Housing Project RAHP A Site,53
+Rensselaer Apartment Housing Project RAHP B Site,62
+Rensselaer Union,35
+Ricketts Building,10
+Robison Swimming Pool,38
+Russell Sage Dining Hall,13
+Russell Sage Laboratory,6
+Science Center,19
+Seismograph Laboratory,55
+Service Building,28
+Sharp Hall,43
+Stacwyck Apartments,59
+Troy Building,7
+VCC,22
+Walker Laboratory,4
+Warren Hall,45
+West Hall,2
+Winslow Building,78
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Greenhouses and Grounds Barn to 200 Sunset Terrace:
+	Walk North to (200 Sunset Terrace)
+Total distance: 213.883 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Crockett Hall to Engineering Center:
+	Walk West to (Intersection 121)
+	Walk West to (Intersection 104)
+	Walk West to (Public Safety)
+	Walk West to (Intersection 141)
+	Walk West to (Intersection 142)
+	Walk West to (Engineering Center)
+Total distance: 635.952 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Blaw-Knox 1 & 2 to H Building:
+	Walk NorthEast to (H Building)
+Total distance: 151.476 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [118]
+Unknown building: [119]
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [Lally]
+First building id/name, followed by Enter: Second building id/name, followed by Enter: There is no path from LINAC Facility to Polytechnic Residence Commons.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Bryckwyck to MRC:
+	Walk SouthWest to (Rensselaer Apartment Housing Project RAHP B Site)
+	Walk South to (Stacwyck Apartments)
+	Walk SouthWest to (East Campus Athletic Village Arena)
+	Walk South to (Intersection 127)
+	Walk West to (Intersection 128)
+	Walk West to (Intersection 126)
+	Walk SouthWest to (Burdett Avenue Residence Hall)
+	Walk West to (Intersection 109)
+	Walk SouthWest to (Intersection 118)
+	Walk SouthWest to (Intersection 119)
+	Walk NorthWest to (Admissions)
+	Walk West to (Intersection 105)
+	Walk South to (Rensselaer Union)
+	Walk South to (Public Safety)
+	Walk West to (Intersection 141)
+	Walk SouthWest to (CII)
+	Walk SouthWest to (DCC)
+	Walk SouthWest to (Intersection 138)
+	Walk SouthWest to (Science Center)
+	Walk SouthWest to (Intersection 135)
+	Walk SouthWest to (Cogswell Laboratory)
+	Walk West to (Empire State Hall)
+	Walk West to (MRC)
+Total distance: 2127.589 pixel units.
+Unknown option
+Unknown option
+Unknown option
+b: lists all buildings (only buildings) in the form name,id in lexicographic (alphabetical) order of name.
+r: prompts the user for the ids or names of two buildings (only buildings!) and prints directions for the shortest route between them.
+q: quits the program.
+m: prints a menu of all commands.
